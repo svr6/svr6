@@ -14,11 +14,14 @@ Advantages of Electric Actuated Ball Valve:
 ·        Any medium can handle this type of valve
 ·        This valve has a very low failure rate
 ·        This valve provides a leak proofing service
-  Electric Actuated Valve Manufacturer in USA
+  
+Electric Actuated Valve Manufacturer in USA
 In recent decades, ensuring sustainable production flows has been a top priority for many production or treatment facilities. Companies seek to be efficient while changing to a more CO2-neutral operation. In valve systems, SVR Global, an Electric Actuated Valve Manufacturer in USA,  provides accurate flow control as well as a number of additional benefits. Due to their simple operation style, our electric actuated valves are the safest alternative in isolated and demanding environments.
 An electric actuated valve is directly attached to an electric actuator, indicating that the valve is completely automated. 
+
 What is an Electric Actuator?
 An electric actuator(sometimes known as motorized or rotary ball valves) is a mechanical device that turns electricity into kinetic energy in a single linear or circular motion. It automatically closes the valve to increase the efficiency and complexity of the process. 
+
 Electric valve actuator selection criteria
 •	Torque
 •	Power
@@ -29,10 +32,12 @@ Electric valve actuator selection criteria
 •	Fail-safe
 •	Modulation
 •	Duty type and duty cycle
+
 Advantages of Electric Actuated Valves:
 •	Can be installed safely and quickly.
 •	Can handle practically all fluid types and have a low failure rate.
 •	Provide a leak-proof service.
+
 Description:
 Body Material: Cast iron, Carbon steel, Cast steel (WCB, WCC, LCB, LCC, WC6, WC9), Stainless steel (CF8, CF8M, SS316, SS304).
 Class: 150 to 2500
